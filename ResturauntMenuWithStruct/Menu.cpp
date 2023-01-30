@@ -5,6 +5,8 @@
 *		Hold the main functions for the program
 *  Modified 27 January 2023:
 *		Added printMenu, printBasket, and purchaseItems Functions
+*  Modified 30 January 2023:
+*		fixed formatting errors in the printBasket() function
 */
 
 #include "Menu.h"
