@@ -1,0 +1,17 @@
+Scrambled Egg,1.45
+Sunny Side Up Egg,1.45
+Easy Over Egg,1.45
+Slice of Bacon,1.25
+Sausage,0.99
+Muffin,0.99
+French Toast,2.99
+Fruit Basket,3.49
+Cereal,1.68
+Coffee,0.99
+Black Tea,1.99
+Green Tea,1.99
+Herbal Tea,1.99
+Milk,1.49
+Orange Juice,2.45
+Grape Juice,2.25
+Cranberry Coctail,1.95
